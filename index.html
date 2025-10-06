@@ -7,22 +7,20 @@
 <body>
   <h2>Reproduzir áudio da pasta <code>Midia</code></h2>
 
-  <!-- Player embutido com controles -->
   <audio id="player" controls>
     <source src="Midia/Origem.mp3" type="audio/mpeg">
     Seu navegador não suporta o elemento <code>audio</code>.
   </audio>
 
   <p>
-    <!-- Link para abrir o arquivo em nova aba (útil para download/abrir direto) -->
     <a href="Midia/Origem.mp3" target="_blank" rel="noopener">Abrir áudio em nova aba / baixar</a>
   </p>
 
   <p>
-    <!-- Botões JS simples para controlar -->
     <button onclick="document.getElementById('player').play()">▶ Tocar</button>
     <button onclick="document.getElementById('player').pause()">⏸ Pausar</button>
   </p>
 </body>
 </html>
+
 
