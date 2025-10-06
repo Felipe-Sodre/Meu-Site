@@ -1,26 +1,13 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8" />
-  <title>Reproduzir Áudio</title>
+  <meta charset="UTF-8">
+  <title>Áudio Simples</title>
 </head>
 <body>
-  <h2>Reproduzir áudio<code>Midia</code></h2>
-
-  <audio id="player" controls>
+  <audio controls>
     <source src="Midia/Origem.mp3" type="audio/mpeg">
-    Seu navegador não suporta o elemento <code>audio</code>.
+    Seu navegador não suporta o elemento de áudio.
   </audio>
-
-  <p>
-    <a href="Midia/Origem.mp3" target="_blank" rel="noopener">Abrir áudio em nova aba / baixar</a>
-  </p>
-
-  <p>
-    <button onclick="document.getElementById('player').play()">▶ Tocar</button>
-    <button onclick="document.getElementById('player').pause()">⏸ Pausar</button>
-  </p>
 </body>
 </html>
-
-
