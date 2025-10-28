@@ -1,3 +1,9 @@
+OBJETIVO DO SITE
+- Servir de currículo
+- Mostrar um pouco fo que eu sei
+- Modtrar um pouco sobre mim
+
+
 FILMES
 Tentar rodar áudio 
 - Ver se no computador abre o auido do drive 
