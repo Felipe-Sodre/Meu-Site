@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fundo com Vídeo</title>
+  <title>Fundo com Vídeo e Som</title>
   <style>
     body, html {
       margin: 0;
@@ -20,7 +20,6 @@
       left: 0;
       width: 100%;
       height: 100%;
-      pointer-events: none; /* evita clicar no vídeo */
       z-index: -1;
       overflow: hidden;
     }
@@ -28,48 +27,4 @@
     /* iframe do YouTube */
     .video-bg iframe {
       width: 100vw;
-      height: 56.25vw; /* proporção 16:9 */
-      min-height: 100vh;
-      min-width: 177.77vh;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-    }
-
-    /* Conteúdo em cima do vídeo */
-    .conteudo {
-      position: relative;
-      z-index: 1;
-      color: white;
-      text-align: center;
-      top: 40%;
-    }
-
-    .conteudo h1 {
-      font-size: 3em;
-      background-color: rgba(0,0,0,0.5);
-      display: inline-block;
-      padding: 10px 20px;
-      border-radius: 10px;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="video-bg">
-    <iframe 
-      src="https://www.youtube.com/embed/UDVtMYqUAyw?autoplay=1&mute=1&controls=0&loop=1&playlist=UDVtMYqUAyw"
-      frameborder="0"
-      allow="autoplay; fullscreen"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="conteudo">
-    <h1>Bem-vindo ao meu site!</h1>
-    <p>Texto ou botão podem vir aqui</p>
-  </div>
-
-</body>
-</html>
+      height: 56.2
