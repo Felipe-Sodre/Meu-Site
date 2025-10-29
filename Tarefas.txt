@@ -4,6 +4,9 @@ OBJETIVO DO SITE
 - Modtrar um pouco sobre mim
 
 
+LOGIN
+- ver se php funciona no google sites
+
 FILMES
 Tentar rodar áudio 
 - Ver se no computador abre o auido do drive 
