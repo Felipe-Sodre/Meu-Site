@@ -1,18 +1,23 @@
-OBJETIVO DO SITE
-- Servir de currículo
-- Mostrar um pouco fo que eu sei
-- Modtrar um pouco sobre mim
+SPRINT
+- Pagina index
 
 
-LOGIN
-- ver se php funciona no google sites
+ESTRUTURA ESQUELETO
 
-FILMES
-Tentar rodar áudio 
-- Ver se no computador abre o auido do drive 
-- Audio do YouTube sem imagem
-- YouTube como fundo da pagina, sendo a pagina inteira
+  Esqueleto
+- Pagina incial: Perfumes / Programação / Pessoal / Intretenimento e conteúdo pessoal
 
+  Programação
+- HTML: Página com descrição dos itens de html
+- CSS: Página com o efeito na pratica de itens de CSS
+- JAVASCRIPT: Página mostrando o resultado do efeito do uso do código
+- Jogo para adivinhar número aleatório
+- Pontuação do codewars na pagina inicial
 
-PÁGINAS 
-Meu site: página matrix com músicas, da pasta missão. Página jogo escolha o número. Página de login para ter acesso completo. Currículo. Link no insta. Página apk. YouTube. Meus conhecimentos: placa solar, elétrica, programação, matemática, exatas. CSS: Animação. Página técnico. Programador: Code pe
+  Pessoal
+- Curriculo: Pagina motrando meu curriculo
+- Programação: Pagina mostrando que sei programar
+- Técnico de internet: 
+
+Intretenimneto
+- Filmes que gosto e musica vindo do Youtube
