@@ -1,5 +1,5 @@
 SPRINT
-- Pagina index
+- Pagina index com informações da internet e 4 cards levando para outras paginas principais
 
 
 ESTRUTURA ESQUELETO
