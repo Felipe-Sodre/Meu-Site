@@ -1,5 +1,12 @@
-SPRINT
+TAREFAS 
 - Pagina index com informações da internet e 4 cards levando para outras paginas principais
+- Carrossel: colocar informações de preços, novidades do site 
+
+
+
+
+
+
 
 
 ESTRUTURA ESQUELETO
