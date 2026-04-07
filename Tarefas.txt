@@ -6,7 +6,8 @@ TAREFAS
 
 
 
-
+PAGINAS
+- Tecnico de internet: Criar pagina para tecnicos, com senhas, prints das configurações, videos com passo a passo, foto da ONU informações da ONU
 
 
 ESTRUTURA ESQUELETO
