@@ -7,25 +7,9 @@ TAREFAS
 
 
 PAGINAS
+- Página inicial: Com 4 Cards com cores de fundo representando os 4 elementos e também informações de preços entre outras coisas em carrossel
 - Tecnico de internet: Criar pagina para tecnicos, com senhas, prints das configurações, videos com passo a passo, foto da ONU informações da ONU
-
-
-ESTRUTURA ESQUELETO
-
-  Esqueleto
-- Pagina incial: Perfumes / Programação / Pessoal / Intretenimento e conteúdo pessoal
-
-  Programação
-- HTML: Página com descrição dos itens de html
-- CSS: Página com o efeito na pratica de itens de CSS
-- JAVASCRIPT: Página mostrando o resultado do efeito do uso do código
-- Jogo para adivinhar número aleatório
-- Pontuação do codewars na pagina inicial
-
-  Pessoal
-- Curriculo: Pagina motrando meu curriculo
-- Programação: Pagina mostrando que sei programar
-- Técnico de internet: 
-
-Intretenimneto
-- Filmes que gosto e musica vindo do Youtube
+- Cliente vero: Fazer páginas para cliente vero com promoções da Vero, informações ao cliente como 5g e 2.4g pedir pix, nunero de telefone pessoal
+- Perfumes: Paginas com perfumes valores descrição, catálogo
+- Pessoal: Entretenimento: Filmes músicas. Obra. Currículo. Habitantes. Pontuação no xadrez. 
+- Programação: Coisas da programação para mostrar meu conhecimento. Curso de programação. Jogos. Ferramentas como cslculadora. pontuação codeWord
