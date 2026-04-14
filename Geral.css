@@ -3,14 +3,6 @@ body
  background-color: orange 
 }
 
-body1
-{
-  
-}
-body2
-{
-  
-}
 
 botao-de-envio
 {
@@ -24,7 +16,7 @@ card
 
 div
 {
-  background-color: gray;
+  background-color: blue;
 }
 
 div2
