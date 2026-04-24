@@ -13,3 +13,6 @@ PAGINAS
 - Perfumes: Paginas com perfumes valores descrição, catálogo
 - Pessoal: Entretenimento: Filmes músicas. Obra. Currículo. Habitantes. Pontuação no xadrez. 
 - Programação: Coisas da programação para mostrar meu conhecimento. Curso de programação. Jogos. Ferramentas como cslculadora. pontuação codeWord
+- Política de privacidade (pode ser simples)
+-'Sobre você (história + objetivo)
+- Contato (email ou formulário)
